@@ -21,7 +21,7 @@ specific to that vulnerability.
 - [CVE-2026-37228](advisories/CVE-2026-37228.md) - FlexRIC fixed SCTP receive buffer assertion crash
 - [CVE-2026-37229](advisories/CVE-2026-37229.md) - FlexRIC ASN.1 PER decode failure assertion crash
 - [CVE-2026-37230](advisories/CVE-2026-37230.md) - FlexRIC RIC indication invalid ran_func_id null dereference
-- [CVE-2026-37231](advisories/CVE-2026-37231-xapp-id-wraparound.md) - FlexRIC xapp_id integer truncation and wraparound
+- [CVE-2026-37231](advisories/CVE-2026-37231.md) - FlexRIC xapp_id integer truncation and wraparound
 - [CVE-2026-37232](advisories/CVE-2026-37232.md) - OpenAirInterface5G E2SM-KPM PRB divide by zero
 - [CVE-2026-37233](advisories/CVE-2026-37233.md) - FlexRIC cross-xApp subscription deletion authorization bypass
 - [CVE-2026-37234](advisories/CVE-2026-37234.md) - FlexRIC multi-identity xApp association resource leak
